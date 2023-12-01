@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "249868350168",
+    "project_id": "ppdm-9b55d",
+    "storage_bucket": "ppdm-9b55d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249868350168:android:a821d8c842a60f49aa5dad",
+        "android_client_info": {
+          "package_name": "br.sena.jandira.ppdm.com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWrXY16PUZpcY_MozF7IwTZ4fLDR5iTWw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
